@@ -13,17 +13,22 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
 
 import my.edu.tarc.mobilecashservice.NanFung.LoginPage;
 
 public class HomePage extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+    int user_id = 0;
+    TextView txtViewUserID;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sidebar_menu);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        txtViewUserID = findViewById(R.id.txtViewUserID);
         setSupportActionBar(toolbar);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
@@ -44,8 +49,16 @@ public class HomePage extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        Intent intentLogin = new Intent(this, LoginPage.class);
-        startActivityForResult(intentLogin, 1);
+        Bundle bundle = getIntent().getExtras();
+        if (bundle != null) {
+            if (getIntent().getIntExtra("user_id", 0) != 0) {
+                user_id = bundle.getInt("user_id");
+                txtViewUserID.setText(user_id);
+            }
+        } else {
+            Intent intentLogin = new Intent(this, LoginPage.class);
+            startActivityForResult(intentLogin, 1);
+        }
     }
 
     @Override

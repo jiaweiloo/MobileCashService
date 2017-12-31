@@ -7,29 +7,38 @@
     format="10"
     ir-eligibility="FIELD_ADDED"
     plugin-version="3.0.1"
-    timestamp="1514721488322"
+    timestamp="1514724007629"
     token="-8454528982720509893"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="599" />
+        duration="652" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="71" />
+        duration="90" />
     <task
         name="verifier"
-        duration="12" />
+        duration="46" />
 
     <artifact
-        location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
+    <artifact
+        location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\jiawe\Desktop\MobileCashService\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -78,37 +87,8 @@
         timestamp="1514719890759"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1514720633755"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1514720697837"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
@@ -118,9 +98,39 @@
         <artifact
             location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1514723707409"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1514724007629"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\jiawe\Desktop\MobileCashService\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

@@ -72,22 +72,71 @@ public class UserSQLHelper extends SQLiteOpenHelper {
     }
 
 
-    public String searchPass(String usernamestr) {
-        SQLiteDatabase database = this.getReadableDatabase();
-        String query = " select user_name, password from " + UserContract.User.TABLE_NAME;
-        Cursor cursor = database.rawQuery(query , null);
-        String a,b;
-        b ="not found";
-        if(cursor.moveToFirst()){
-            do{
-                a=cursor.getString(0);
+    public UserRecord searchPass(String usernamestr) {
+        UserRecord userrecord = new UserRecord();
 
-                if(a.equals(usernamestr)){
-                    b=cursor.getString(1);
-                    break;
-                }
-            }while(cursor.moveToNext());
+        SQLiteDatabase database = this.getReadableDatabase();
+
+        Cursor cursor = database.query(UserContract.User.TABLE_NAME,
+                new String[]{
+                        UserContract.User.COLUMN_USERID,
+                        UserContract.User.COLUMN_USERNAME,
+                        UserContract.User.COLUMN_USERPASSWORD,
+                        UserContract.User.COLUMN_IC,
+                        UserContract.User.COLUMN_EMAIL,
+                        UserContract.User.COLUMN_PHONE},
+                UserContract.User.COLUMN_USERNAME + "=?",
+                new String[]{usernamestr}, null, null, null, null);
+
+
+        if (cursor != null)
+            cursor.moveToFirst();
+
+        if (cursor.getCount() > 0) {
+            userrecord.setUser_id(Integer.parseInt(cursor.getString(0)));
+            userrecord.setUser_name(cursor.getString(1));
+            userrecord.setPassword(cursor.getString(2));
+            userrecord.setIc_number(cursor.getString(3));
+            userrecord.setEmail(cursor.getString(4));
+            userrecord.setPhone(Integer.parseInt(cursor.getString(5)));
         }
-        return b;
+        cursor.close();
+        database.close();
+
+        return userrecord;
+    }
+
+    public UserRecord getUser(int id){
+        UserRecord userrecord = new UserRecord();
+
+        SQLiteDatabase database = this.getReadableDatabase();
+
+        Cursor cursor = database.query(UserContract.User.TABLE_NAME,
+                new String[]{
+                        UserContract.User.COLUMN_USERID,
+                        UserContract.User.COLUMN_USERNAME,
+                        UserContract.User.COLUMN_USERPASSWORD,
+                        UserContract.User.COLUMN_IC,
+                        UserContract.User.COLUMN_EMAIL,
+                        UserContract.User.COLUMN_PHONE},
+                        UserContract.User.COLUMN_USERID + "=?",
+                new String[]{String.valueOf(id)}, null, null, null, null);
+
+
+        if (cursor != null)
+            cursor.moveToFirst();
+
+        if (cursor.getCount() > 0) {
+            userrecord.setUser_id(Integer.parseInt(cursor.getString(0)));
+            userrecord.setUser_name(cursor.getString(1));
+            userrecord.setPassword(cursor.getString(2));
+            userrecord.setIc_number(cursor.getString(3));
+            userrecord.setEmail(cursor.getString(4));
+            userrecord.setPhone(Integer.parseInt(cursor.getString(5)));
+        }
+        cursor.close();
+        database.close();
+
+        return userrecord;
     }
 }
