@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MobileCashService</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_changeUser">Change User</string>
+    <string name="action_checkDatabase">Check Database</string>
+
+    <!-- Nan Fung's strings-->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="error_name">Please enter name</string>
+    <string name="error_phone">Please enter phone</string>
+    <string name="error_email">Please enter email</string>
+    <string name="error_pass">Please enter password</string>
+    <string name="error_conpass">Please enter confirmpassword</string>
+    <string name="error_ic">Please enter ic</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <!-- End of Nan Fung's strings-->
+
+    <!-- Jia Wei's strings-->
+    <string name="title_menu">Enter amount to be deposit</string>
+    <string name="title_area">Select area of transaction</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
