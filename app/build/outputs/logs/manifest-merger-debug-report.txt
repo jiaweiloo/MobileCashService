@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\jiawe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0e6e5371e5719d9b023479318808e1a0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\jiawe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\15173a70941c80f3554093acc1a6a161\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jiawe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\af625888f3e7ae848a54d534bc6ca38f\AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\jiawe\.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\jiawe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6a2dbc6c912b905a5ff16eb608a95a4a\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\jiawe\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\72fb5a5d1168132807df1289aacad05d\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jiawe\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7cb9a669cc22bc78e079c1af77274db2\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:5:5-23:19
+ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:5:5-24:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\jiawe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0e6e5371e5719d9b023479318808e1a0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\jiawe\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0e6e5371e5719d9b023479318808e1a0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\jiawe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\15173a70941c80f3554093acc1a6a161\AndroidManifest.xml:25:5-29:19
@@ -96,9 +96,13 @@ ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest
 	android:name
 		ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:19:27-74
 activity#my.edu.tarc.mobilecashservice.NanFung.LoginPage
-ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:22:9-64
+ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:22:9-55
 	android:name
 		ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:22:19-52
+activity#my.edu.tarc.mobilecashservice.NanFung.RegisterPage
+ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:23:9-67
+	android:name
+		ADDED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml:23:19-55
 uses-sdk
 INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\jiawe\Desktop\MobileCashService\app\src\main\AndroidManifest.xml

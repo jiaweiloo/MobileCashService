@@ -19,7 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".NanFung.LoginPage"></activity>
+        <activity android:name=".NanFung.LoginPage" />
+        <activity android:name=".NanFung.RegisterPage"></activity>
     </application>
 
 </manifest>

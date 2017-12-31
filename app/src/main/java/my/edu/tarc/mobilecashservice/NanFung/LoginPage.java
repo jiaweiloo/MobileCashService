@@ -40,7 +40,7 @@ public class LoginPage extends AppCompatActivity {
     }
 
     public void BtnToRegister(View view) {
-        //Intent intentRegister = new Intent(this, AddRegisterAcc.class);
-        //startActivityForResult(intentRegister,1);
+        Intent intentRegister = new Intent(this, RegisterPage.class);
+        startActivityForResult(intentRegister,1);
     }
 }
