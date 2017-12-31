@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -13,7 +14,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import my.edu.tarc.mobilecashservice.NanFung.LoginPage;
 
@@ -28,7 +31,7 @@ public class HomePage extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sidebar_menu);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        txtViewUserID = findViewById(R.id.txtViewUserID);
+
         setSupportActionBar(toolbar);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
@@ -46,14 +49,18 @@ public class HomePage extends AppCompatActivity
         drawer.addDrawerListener(toggle);
         toggle.syncState();
 
-        NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
+        NavigationView navigationView = findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
+        View headerView = navigationView.getHeaderView(0);
+        txtViewUserID = headerView.findViewById(R.id.txtViewUserID);
+
+        Log.i("tag", txtViewUserID.getText().toString());
         Bundle bundle = getIntent().getExtras();
         if (bundle != null) {
             if (getIntent().getIntExtra("user_id", 0) != 0) {
                 user_id = bundle.getInt("user_id");
-                txtViewUserID.setText(user_id);
+                txtViewUserID.setText(String.valueOf(user_id));
             }
         } else {
             Intent intentLogin = new Intent(this, LoginPage.class);
@@ -116,5 +123,9 @@ public class HomePage extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    public void goToDeposit(View view){
+        Toast.makeText(HomePage.this, "Picture pressed!", Toast.LENGTH_SHORT).show();
     }
 }
