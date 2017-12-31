@@ -12,4 +12,9 @@
         android:icon="@drawable/ic_account_circle_black_24dp"
         android:orderInCategory="101"
         android:title="My Account" />
+    <item
+        android:id="@+id/action_checkDatabase"
+        android:orderInCategory="102"
+        android:title="@string/action_checkDatabase"
+        app:showAsAction="collapseActionView" />
 </menu>

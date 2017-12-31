@@ -18,6 +18,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import my.edu.tarc.mobilecashservice.JiaWei.AllDepositRecords;
 import my.edu.tarc.mobilecashservice.JiaWei.DepositSelectCash;
 import my.edu.tarc.mobilecashservice.NanFung.LoginPage;
 
@@ -96,6 +97,9 @@ public class HomePage extends AppCompatActivity
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
+        }else if(id == R.id.action_checkDatabase){
+            goToCheckDatabase();
+            return true;
         }
 
         return super.onOptionsItemSelected(item);
@@ -130,5 +134,11 @@ public class HomePage extends AppCompatActivity
         Toast.makeText(HomePage.this, "Picture pressed!", Toast.LENGTH_SHORT).show();
         Intent intent = new Intent(this, DepositSelectCash.class);
         startActivityForResult(intent, 1);
+    }
+
+    public void goToCheckDatabase(){
+        Intent intent = new Intent(this, AllDepositRecords.class);
+        //intent.putExtra("message", txtAmount.getText().toString());
+        startActivityForResult(intent, 2);
     }
 }
