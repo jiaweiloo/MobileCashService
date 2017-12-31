@@ -99,6 +99,7 @@
         android:layout_height="wrap_content"
         android:onClick="BtnLogin"
         android:text="Login"
+        android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintLeft_toLeftOf="parent"

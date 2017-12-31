@@ -7,16 +7,17 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import my.edu.tarc.mobilecashservice.DatabaseHelper.UserSQLHelper;
 import my.edu.tarc.mobilecashservice.HomePage;
 import my.edu.tarc.mobilecashservice.R;
 
 public class LoginPage extends AppCompatActivity {
-
+    UserSQLHelper database;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login_page);
-
+        database = new UserSQLHelper(this);
     }
 
     public void BtnLogin(View view) {
@@ -25,8 +26,8 @@ public class LoginPage extends AppCompatActivity {
         EditText password = (EditText)findViewById(R.id.editTextPassword);
         String passwordstr = password.getText().toString();
 
-        /*
-        String pass = databaseSource.searchPass(usernamestr);
+
+        String pass = database.searchPass(usernamestr);
         if(passwordstr.equals(pass)){
             Toast temp = Toast.makeText(LoginPage.this , "Login Successfully", Toast.LENGTH_SHORT);
             temp.show();
@@ -36,7 +37,7 @@ public class LoginPage extends AppCompatActivity {
             Toast temp = Toast.makeText(LoginPage.this , "Username and Password dont match", Toast.LENGTH_SHORT);
             temp.show();
         }
-        */
+
     }
 
     public void BtnToRegister(View view) {

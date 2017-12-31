@@ -28,6 +28,7 @@
             </intent-filter>
         </activity>
         <activity android:name="my.edu.tarc.mobilecashservice.NanFung.LoginPage" />
+        <activity android:name="my.edu.tarc.mobilecashservice.NanFung.RegisterPage" />
 
         <meta-data
             android:name="android.support.VERSION"
