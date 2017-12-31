@@ -13,15 +13,6 @@ import java.util.List;
  * Created by jiaweiloo on 29/12/2017.
  */
 
-import android.content.ContentValues;
-import android.content.Context;
-import android.database.Cursor;
-import android.database.sqlite.SQLiteDatabase;
-import android.database.sqlite.SQLiteOpenHelper;
-
-import java.util.ArrayList;
-import java.util.List;
-
 import my.edu.tarc.mobilecashservice.Contract.DepositContract;
 import my.edu.tarc.mobilecashservice.Entity.Deposit;
 

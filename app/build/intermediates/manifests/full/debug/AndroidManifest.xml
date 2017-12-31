@@ -8,6 +8,12 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="26" />
 
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:debuggable="true"
@@ -29,10 +35,26 @@
         </activity>
         <activity android:name="my.edu.tarc.mobilecashservice.NanFung.LoginPage" />
         <activity android:name="my.edu.tarc.mobilecashservice.NanFung.RegisterPage" />
+        <activity android:name="my.edu.tarc.mobilecashservice.JiaWei.DepositSelectCash" />
+        <activity android:name="my.edu.tarc.mobilecashservice.JiaWei.DepositSelectArea" />
+        <activity android:name="my.edu.tarc.mobilecashservice.JiaWei.DepositSecurityCode" />
+        <activity android:name="my.edu.tarc.mobilecashservice.JiaWei.DepositWaitingPage" />
+        <activity android:name="my.edu.tarc.mobilecashservice.JiaWei.DepositScanQRcode" />
+        <activity android:name="my.edu.tarc.mobilecashservice.JiaWei.AllDepositRecords" />
+        <activity android:name="my.edu.tarc.mobilecashservice.barcode.BarcodeCaptureActivity" />
 
         <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="android.arch.lifecycle.VERSION"
             android:value="27.0.0-SNAPSHOT" />

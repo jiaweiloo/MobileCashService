@@ -18,6 +18,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import my.edu.tarc.mobilecashservice.JiaWei.DepositSelectCash;
 import my.edu.tarc.mobilecashservice.NanFung.LoginPage;
 
 public class HomePage extends AppCompatActivity
@@ -127,5 +128,7 @@ public class HomePage extends AppCompatActivity
 
     public void goToDeposit(View view){
         Toast.makeText(HomePage.this, "Picture pressed!", Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this, DepositSelectCash.class);
+        startActivityForResult(intent, 1);
     }
 }

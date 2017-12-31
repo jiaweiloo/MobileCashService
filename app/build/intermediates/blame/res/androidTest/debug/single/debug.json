@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72fb5a5d1168132807df1289aacad05d\\res\\layout-v21\\notification_action_tombstone.xml"
     },
@@ -52,6 +56,10 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
@@ -74,6 +82,10 @@
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -200,12 +212,20 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\color\\abc_tint_spinner.xml"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_switch_thumb_material.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -432,8 +452,16 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_bar_title_item.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -488,12 +516,20 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
@@ -544,6 +580,10 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\color\\abc_search_url_text.xml"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72fb5a5d1168132807df1289aacad05d\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
@@ -592,12 +632,12 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_ic_clear_material.xml.flat",
-        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72fb5a5d1168132807df1289aacad05d\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -618,6 +658,10 @@
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_screen_simple.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -644,12 +688,20 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72fb5a5d1168132807df1289aacad05d\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -660,8 +712,16 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_bar_up_container.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_notification_template_custom_big.xml.flat",
@@ -764,6 +824,10 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -856,12 +920,12 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0e6e5371e5719d9b023479318808e1a0\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\e1e776e1394f5761ca70ddaa46bada01\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0e6e5371e5719d9b023479318808e1a0\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_switch_thumb_material_dark.xml.flat",
@@ -944,6 +1008,14 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -1020,6 +1092,10 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72fb5a5d1168132807df1289aacad05d\\res\\layout\\notification_template_part_time.xml"
     },
@@ -1040,6 +1116,18 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\e1e776e1394f5761ca70ddaa46bada01\\res\\layout\\notification_template_lines_media.xml"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -1054,6 +1142,10 @@
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_abc_hint_foreground_material_light.xml.flat",
@@ -1100,6 +1192,10 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\e1e776e1394f5761ca70ddaa46bada01\\res\\layout\\notification_template_media_custom.xml"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0e6e5371e5719d9b023479318808e1a0\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },
@@ -1122,6 +1218,10 @@
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_abc_primary_text_material_dark.xml.flat",
@@ -1164,6 +1264,10 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -1178,6 +1282,10 @@
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_abc_slide_in_bottom.xml.flat",
@@ -1208,6 +1316,10 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -1226,6 +1338,14 @@
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_abc_fade_out.xml.flat",
@@ -1260,12 +1380,24 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72fb5a5d1168132807df1289aacad05d\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1404,6 +1536,14 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
@@ -1516,12 +1656,24 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_abc_fade_in.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -1628,6 +1780,10 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_avd_hide_password.xml.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\0e6e5371e5719d9b023479318808e1a0\\res\\drawable-v21\\avd_hide_password.xml"
     },
@@ -1668,6 +1824,10 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -1680,8 +1840,16 @@
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_avd_show_password.xml.flat",
@@ -1710,6 +1878,10 @@
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\15173a70941c80f3554093acc1a6a161\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\jiawe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\4ecdd7ee886ba385cbd2f3a2bb771d45\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\jiawe\\Desktop\\MobileCashService\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_list_menu_item_layout.xml.flat",
